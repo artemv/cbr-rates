@@ -63,7 +63,7 @@ GEM
     notiffany (0.0.8)
       nenv (~> 0.1)
       shellany (~> 0.0)
-    ox (2.3.0)
+    ox (2.4.0)
     parser (2.3.0.6)
       ast (~> 2.2)
     powerpack (0.1.1)
@@ -111,7 +111,7 @@ GEM
       unf_ext
     unf_ext (0.0.7.2)
     unicode-display_width (0.3.1)
-    webmock (1.24.2)
+    webmock (1.24.3)
       addressable (>= 2.3.6)
       crack (>= 0.3.2)
       hashdiff
