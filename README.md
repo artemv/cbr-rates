@@ -7,7 +7,7 @@ A command line tool to fetch [CBR](http://cbr.ru) currency rate as of given date
 
 #Installation
 * Clone the repo: `git clone https://github.com/artemv/cbr-rates.git`
-* Install Ruby 2.3.0 from https://www.ruby-lang.org/en/downloads/ or via RVM (https://rvm.io/)
+* Install Ruby 2.3.1 from https://www.ruby-lang.org/en/downloads/ or via RVM (https://rvm.io/)
 * Install Bundler and dependencies:
 ```
 cd cbr-rates
